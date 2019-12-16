@@ -1,4 +1,6 @@
 class Dog
   puts woof
 end
- Dog.new
+fido = Dog.new
+ snnopy = Dog.new
+  lassie = Dog.new
