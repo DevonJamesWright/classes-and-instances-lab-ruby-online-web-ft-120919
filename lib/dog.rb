@@ -1,5 +1,4 @@
-def Dog=(dog)
-  Dog = dog 
+class Dog
 end
 
 def Dog (dog)
