@@ -1,5 +1,4 @@
 class Dog
-  puts woof
 end
 fido = Dog.new
  snnopy = Dog.new
